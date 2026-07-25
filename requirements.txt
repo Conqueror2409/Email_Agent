@@ -1,4 +1,3 @@
-imaplib
 email
 python-dotenv
 slack-sdk>=3.0.0
