@@ -1,0 +1,32 @@
+[
+    {
+        "email": "alice@example.com",
+        "name": "Alice Johnson",
+        "company": "Acme Corp",
+        "context_tag": "sales_intro",
+        "extra_vars": {
+            "pain_point": "streamlining their customer onboarding process"
+        }
+    },
+    {
+        "email": "bob@example.com",
+        "name": "Bob Smith",
+        "company": "Globex Inc.",
+        "context_tag": "product_update",
+        "extra_vars": {
+            "focus_area": "team collaboration",
+            "feature_a_benefit": "Cut team meeting time by 30%",
+            "feature_b_benefit": "Auto-sync decisions to your project tracker",
+            "feature_c_benefit": "Integrates natively with the tools Globex already uses"
+        }
+    },
+    {
+        "email": "carol@example.com",
+        "name": "Carol Davis",
+        "company": "Initech",
+        "context_tag": "partnership_proposal",
+        "extra_vars": {
+            "our_value_prop": "our reseller program and enterprise client base"
+        }
+    }
+]
