@@ -1,7 +1,7 @@
-import argparse
 import json
 import sys
 import logging
+command="default"
 
 from email_agent import EmailAgent
 from scheduler import run_scheduler
